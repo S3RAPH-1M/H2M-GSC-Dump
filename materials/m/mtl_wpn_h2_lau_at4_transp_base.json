@@ -1,0 +1,61 @@
+{
+    "name": "m/mtl_wpn_h2_lau_at4_transp_base",
+    "techniqueSet->name": "m_l_sm_lmpb_a0c0n0sd0_cltrans_h2",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 16777216,
+    "cameraRegion": 3,
+    "materialType": 1,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.03999999910593033,
+                1.0,
+                5.0,
+                1.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~$white-r32g32b32&mtl_wpn_h2_~49add398",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "mtl_wpn_h2_lau_at4_transp_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "mtl_wpn_h2_lau_at4_transp_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        },
+        {
+            "image": "~envbrdflut_ggx_16-rg",
+            "semantic": 15,
+            "samplerState": 226,
+            "lastCharacter": 116,
+            "firstCharacter": 101,
+            "typeHash": 3447584578
+        }
+    ]
+}

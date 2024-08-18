@@ -1,0 +1,69 @@
+{
+    "name": "camo_h2m_digital",
+    "techniqueSet->name": "l_sm_lmpb_dc1_r0c0_nfwpf",
+    "gameFlags": 144,
+    "sortKey": 38,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 12,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "decalParams1",
+            "nameHash": 406666434,
+            "literal": [
+                1.0,
+                1.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "wpn_h2m_camo_digital",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 659983135
+        },
+        {
+            "image": "$identitynormalmap",
+            "semantic": 5,
+            "samplerState": 1,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "camo_reference_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        },
+        {
+            "image": "fp_black_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 3135443286
+        },
+        {
+            "image": "~envbrdflut_ggx_16-rg",
+            "semantic": 15,
+            "samplerState": 226,
+            "lastCharacter": 116,
+            "firstCharacter": 101,
+            "typeHash": 3447584578
+        }
+    ]
+}

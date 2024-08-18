@@ -1,0 +1,165 @@
+{
+    "name": "m/mtl_h2_fal_barrel_water",
+    "techniqueSet->name": "m_l_sm_lmpb_dc1dn1ds1dg1dna1_r0c0n0sd0om0_nfwpf_misva_eflow",
+    "gameFlags": 80,
+    "sortKey": 2,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 4096,
+    "cameraRegion": 0,
+    "materialType": 1,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "decalParams1",
+            "nameHash": 406666434,
+            "literal": [
+                2.0,
+                2.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.03999999910593033,
+                1.0,
+                5.0,
+                1.0
+            ]
+        },
+        {
+            "name": "emissiveShad",
+            "nameHash": 2025487071,
+            "literal": [
+                8.0,
+                0.5,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "emissiveFlow",
+            "nameHash": 2872192528,
+            "literal": [
+                2.0,
+                12.0,
+                1.0,
+                6.0
+            ]
+        },
+        {
+            "name": "emissiveFlow",
+            "nameHash": 3470264323,
+            "literal": [
+                0.07999999821186066,
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "wpn_h2m_camo_water_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 659983135
+        },
+        {
+            "image": "wpn_h2m_camo_water_ems",
+            "semantic": 17,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 101,
+            "typeHash": 878789447
+        },
+        {
+            "image": "i_h2_fal_barrel_s",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "i_h2_fal_barrel_n",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "camo_base_flow_surfparms_01",
+            "semantic": 2,
+            "samplerState": 2,
+            "lastCharacter": 115,
+            "firstCharacter": 101,
+            "typeHash": 1507197276
+        },
+        {
+            "image": "wpn_h2m_camo_water_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 1518176625
+        },
+        {
+            "image": "i_h2_fal_barrel_o",
+            "semantic": 16,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 111,
+            "typeHash": 1610742065
+        },
+        {
+            "image": "i_h2_fal_barrel_c",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        },
+        {
+            "image": "i_h2_fal_barrel_m",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 3135443286
+        },
+        {
+            "image": "wpn_h2m_camo_water_spc",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 3426233914
+        },
+        {
+            "image": "~envbrdflut_ggx_16-rg",
+            "semantic": 15,
+            "samplerState": 226,
+            "lastCharacter": 116,
+            "firstCharacter": 101,
+            "typeHash": 3447584578
+        },
+        {
+            "image": "wpn_h1_camo_flowmap_liquid_01_flow",
+            "semantic": 2,
+            "samplerState": 2,
+            "lastCharacter": 112,
+            "firstCharacter": 101,
+            "typeHash": 3602226805
+        }
+    ]
+}

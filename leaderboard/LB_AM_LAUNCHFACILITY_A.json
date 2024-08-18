@@ -1,0 +1,51 @@
+{
+    "name": "LB_AM_LAUNCHFACILITY_A",
+    "id": 7,
+    "id2": 0,
+    "xpColId": 0,
+    "prestigeColId": 0,
+    "updateType": 0,
+    "trackTypes": 0,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "propertyId": 0,
+            "hidden": false,
+            "statsGroup": 7,
+            "statName": "",
+            "type": 0,
+            "precision": 0,
+            "agg": 3,
+            "uiCalColX": 0,
+            "uiCalColY": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "propertyId": 0,
+            "hidden": false,
+            "statsGroup": 7,
+            "statName": "",
+            "type": 0,
+            "precision": 0,
+            "agg": 3,
+            "uiCalColX": 0,
+            "uiCalColY": 0
+        },
+        {
+            "name": "Score",
+            "id": 65534,
+            "propertyId": 0,
+            "hidden": false,
+            "statsGroup": 5,
+            "statName": "arcadeScore launchfacility_a",
+            "type": 0,
+            "precision": 0,
+            "agg": 1,
+            "uiCalColX": 0,
+            "uiCalColY": 0
+        }
+    ],
+    "pad": 0
+}

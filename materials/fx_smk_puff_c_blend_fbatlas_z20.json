@@ -1,0 +1,47 @@
+{
+    "name": "fx_smk_puff_c_blend_fbatlas_z20",
+    "techniqueSet->name": "effect_zf_blend_tab_ndw_h2",
+    "gameFlags": 128,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 4,
+    "textureAtlasColumnCount": 16,
+    "textureAtlasFrameBlend": 1,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.0078125,
+                128.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "atlasBlendPa",
+            "nameHash": 1921794295,
+            "literal": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "fx_smk_puff_c_2x1",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

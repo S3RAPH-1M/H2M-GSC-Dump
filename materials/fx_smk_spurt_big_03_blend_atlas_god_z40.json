@@ -1,0 +1,67 @@
+{
+    "name": "fx_smk_spurt_big_03_blend_atlas_god_z40",
+    "techniqueSet->name": "effect_zf_falloff_blend_ndw_h2",
+    "gameFlags": 128,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 2,
+    "textureAtlasColumnCount": 16,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "falloffBegin",
+            "nameHash": 1023779314,
+            "literal": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.02500000037252903,
+                40.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "falloffEndCo",
+            "nameHash": 1797105402,
+            "literal": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "name": "falloffParms",
+            "nameHash": 3185466613,
+            "literal": [
+                0.005263158120214939,
+                -0.05263157933950424,
+                2.030853271484375,
+                -0.36272290349006653
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "smk_spurt_big_03_iw",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

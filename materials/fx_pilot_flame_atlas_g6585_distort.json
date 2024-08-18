@@ -1,0 +1,95 @@
+{
+    "name": "fx_pilot_flame_atlas_g6585_distort",
+    "techniqueSet->name": "effect_falloff_add_ndw_uvd_h2",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "uvDistortPar",
+            "nameHash": 730571196,
+            "literal": [
+                0.25,
+                0.25,
+                0.25,
+                0.10000000149011612
+            ]
+        },
+        {
+            "name": "falloffBegin",
+            "nameHash": 1023779314,
+            "literal": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "textureAtlas",
+            "nameHash": 1128936273,
+            "literal": [
+                1.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "falloffEndCo",
+            "nameHash": 1797105402,
+            "literal": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "name": "uvDistortPar",
+            "nameHash": 2634012942,
+            "literal": [
+                0.0,
+                0.0,
+                0.0,
+                0.25
+            ]
+        },
+        {
+            "name": "falloffParms",
+            "nameHash": 3185466613,
+            "literal": [
+                0.005263158120214939,
+                -0.05263157933950424,
+                5.847609519958496,
+                -0.044419120997190475
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "uv_distort_1",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 117,
+            "typeHash": 943943196
+        },
+        {
+            "image": "pilot_flame_02",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

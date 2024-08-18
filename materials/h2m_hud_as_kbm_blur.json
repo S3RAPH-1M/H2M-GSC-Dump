@@ -1,0 +1,55 @@
+{
+    "name": "h2m_hud_as_kbm_blur",
+    "techniqueSet->name": "distortion_shade_legacydst_blurdst_mask_dat",
+    "gameFlags": 0,
+    "sortKey": 48,
+    "renderFlags": 4,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "blurParms",
+            "nameHash": 2208989108,
+            "literal": [
+                4.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "distortionSc",
+            "nameHash": 4084951315,
+            "literal": [
+                2.0,
+                2.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "h2m_hud_as_kbm_blur_tex",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 109,
+            "typeHash": 2658902024
+        },
+        {
+            "image": "$black",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

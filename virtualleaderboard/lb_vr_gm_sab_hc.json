@@ -1,0 +1,79 @@
+{
+    "name": "lb_vr_gm_sab_hc",
+    "leaderboardName": "lb_mp_gm_hc",
+    "id": 13845,
+    "leaderboardId": 13800,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Prestige Level",
+            "id": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Total XP",
+            "id": 1,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Score",
+            "id": 44,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Plants",
+            "id": 49,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Defuses",
+            "id": 50,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Defends",
+            "id": 51,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kills",
+            "id": 47,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Deaths",
+            "id": 48,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        }
+    ],
+    "pad": 0
+}

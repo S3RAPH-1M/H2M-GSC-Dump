@@ -1,0 +1,34 @@
+{
+    "name": "m/mtl_wpn_h1_sticker_placeholder",
+    "techniqueSet->name": "mc_l_sm_r0c0_nfwpf",
+    "gameFlags": 144,
+    "sortKey": 2,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 0,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "$identitynormalmap",
+            "semantic": 5,
+            "samplerState": 1,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "$black",
+            "semantic": 2,
+            "samplerState": 11,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

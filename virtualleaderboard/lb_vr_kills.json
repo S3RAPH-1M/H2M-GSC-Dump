@@ -1,0 +1,86 @@
+{
+    "name": "lb_vr_kills",
+    "leaderboardName": "lb_mp_mr",
+    "id": 13009,
+    "leaderboardId": 13000,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Prestige Level",
+            "id": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Total XP",
+            "id": 1,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kills",
+            "id": 8,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Deaths",
+            "id": 9,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kill/Death Ratio",
+            "id": 65526,
+            "unk1": 8,
+            "unk2": 9,
+            "unk3": 0
+        },
+        {
+            "name": "Kill Streak",
+            "id": 7,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Avg Kills",
+            "id": 65525,
+            "unk1": 8,
+            "unk2": 4,
+            "unk3": 0
+        },
+        {
+            "name": "Assists",
+            "id": 11,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Headshots",
+            "id": 12,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        }
+    ],
+    "pad": 0
+}

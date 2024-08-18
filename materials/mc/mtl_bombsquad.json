@@ -1,0 +1,67 @@
+{
+    "name": "mc/mtl_bombsquad",
+    "techniqueSet->name": "mc_unlit_add_lin_ct_ndw_cltrans_objective2",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 4096,
+    "cameraRegion": 3,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "colorObjMax",
+            "nameHash": 2065593518,
+            "literal": [
+                1.0,
+                0.0,
+                0.0,
+                0.5
+            ]
+        },
+        {
+            "name": "colorObjMin",
+            "nameHash": 2065593776,
+            "literal": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "colorTint",
+            "nameHash": 3054254906,
+            "literal": [
+                150.0,
+                150.0,
+                150.0,
+                1.0
+            ]
+        },
+        {
+            "name": "colorObjHdrP",
+            "nameHash": 3345677433,
+            "literal": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "color_red",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

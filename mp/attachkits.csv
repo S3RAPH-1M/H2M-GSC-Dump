@@ -1,0 +1,28 @@
+id,attach kit name,attach1,attach2,attach3,attach4,weapon classes,Global Unique ID,Name,Description,Image,Kit Type,BotPersonality,BotDifficulty,accuracy,damage,range,firerate,mobility,handling,ammo,magazine,Kit Type 2,productionLevel
+0,none,,,,,,0x10002E2,MPUI_NO_ATTACHMENT,PERKS_NO_ATTACHMENT,weapon_missing_image,,,,,,,,,,,,,Gold
+2,gl,gl,glpre,,,ast,0x10002E4,MPUI_GRENADELAUNCHER,PERKS_DESC_GRENADELAUNCH,weapon_attachment_shotgun,gl,run_and_gun|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+3,glak47,glak47,glpre,,,ast,0x10002D4,MPUI_GRENADELAUNCHER,PERKS_DESC_GRENADELAUNCH,weapon_attachment_shotgun,gl,run_and_gun|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+4,fastfire,fastfire,,,,smg,0x10002F0,MPUI_FASTFIRE,PERKS_DESC_FASTFIRE,weapon_attachment_fastfire,fastfire,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+5,foregrip,foregrip,,,,lmg sht,0x10002E8,MPUI_FOREGRIP,PERKS_DESC_GRIP,weapon_attachment_grip,foregrip,run_and_gun|camper,regular|hardened|veteran,10,0,0,0,0,,,,,Gold
+6,reflex,reflex,,,,ast smg lmg sht pst,0x10002D5,MPUI_RED_DOT_SIGHT,PERKS_REPLACE_THE_IRON_SIGHTS,h2_reflex,reflex,run_and_gun|cqb|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+7,silencershotgun,silencershotgun,,,,sht,0x10002FF,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencershotgun,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+8,silencersmg,silencersmg,,,,smg,0x10002EA,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencersmg,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+9,f2000scope,f2000scope,,,,ast,0x10002F8,MPUI_RED_DOT_SIGHT,PERKS_REPLACE_THE_IRON_SIGHTS,weapon_attachment_f2000scope,f2000scope,run_and_gun|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+10,mars,mars,,,,ast,0x10002L6,MPUI_RED_DOT_SIGHT,PERKS_REPLACE_THE_IRON_SIGHTS,weapon_attachment_mars,mars,run_and_gun|cqb|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+11,silencerlmg,silencerlmg,,,,lmg,0x10002EB,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencerlmg,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+12,silencerar,silencerar,,,,ast,0x10002E9,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencerar,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+13,silencersniper,silencersniper,,,,snp,0x10002EE,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencersniper,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+14,acogh2,acog,,,,ast smg lmg snp,0x10002D2,MPUI_ACOG_SCOPE,PERKS_ACOG_SCOPE,weapon_attachment_acog,acog,run_and_gun|camper,regular|hardened|veteran,-5,0,10,0,0,,,,,Gold
+15,augscope,augscope,,,,lmg,0x10002D3,MPUI_ACOG_SCOPE,PERKS_ACOG_SCOPE,weapon_attachment_augscope,augscope,run_and_gun|camper,regular|hardened|veteran,-5,0,10,0,0,,,,,Gold
+16,fmj,fmj,,,,ast smg lmg snp sht pst,0x10002E5,MPUI_FMJ,PERKS_DESC_FMJ,weapon_attachment_fmj,fmj,run_and_gun|camper,regular|hardened|veteran,0,10,0,0,-10,,,,,Gold
+17,silencerpistol,silencerpistol,,,,pst,0x10002EC,MPUI_SILENCER,PERKS_INVISIBLE_ON_GPS_WHEN,weapon_attachment_suppressor,silencerpistol,run_and_gun|camper,regular|hardened|veteran,0,0,-10,0,0,,,,,Gold
+18,tacknifecolt44,tacknifecolt44,,,,pst,0x10002F9,MPUI_TACKNIFE,PERKS_DESC_TACKNIFE,weapon_attachment_tacknife,tacknifecolt44,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+19,tacknifedeagle,tacknifedeagle,,,,pst,0x10002F3,MPUI_TACKNIFE,PERKS_DESC_TACKNIFE,weapon_attachment_tacknife,tacknifedeagle,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+20,akimbo,akimbo,,,,smg sht pst,0x10002F1,MPUI_DUAL,PERKS_DESC_DUAL,weapon_attachment_akimbo2,akimbo,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+21,holo,holo,,,,ast smg lmg sht pst,0x10002E7,MPUI_HOLO,PERKS_DESC_HOLO,weapon_attachment_holographic,holo,run_and_gun|camper,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+22,tacknifecolt45,tacknifecolt45,,,,pst,0x10002F2,MPUI_TACKNIFE,PERKS_DESC_TACKNIFE,weapon_attachment_tacknife,tacknifecolt45,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+23,tacknifem9,tacknifem9,,,,pst,0x10002F4,MPUI_TACKNIFE,PERKS_DESC_TACKNIFE,weapon_attachment_tacknife,tacknifem9,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+24,tacknifeusp,tacknifeusp,,,,pst,0x10002F5,MPUI_TACKNIFE,PERKS_DESC_TACKNIFE,weapon_attachment_tacknife,tacknifeusp,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+25,thermal,thermal,,,,ast smg lmg snp,0x10002EF,MPUI_THERMAL,PERKS_DESC_THERMAL,weapon_attachment_thermal2,thermal,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+26,xmag,xmag,,,,ast smg lmg snp sht pst,0x10002FA,MPUI_XMAG,PERKS_DESC_XMAG,weapon_attachment_xmag,xmag,run_and_gun|camper|cqb,regular|hardened|veteran,0,0,0,0,0,,,,,Gold
+27,sho,sho,shopre,,,ast,0x10002F7,MPUI_MASTERKEY,PERKS_DESC_MASTERKEY,weapon_attachment_shotty,sho,run_and_gun|camper,regular|hardened|veteran,-5,0,10,0,0,,,,,Gold

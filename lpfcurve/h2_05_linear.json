@@ -1,0 +1,14 @@
+{
+    "isDefault": false,
+    "filename": "h2_05_linear",
+    "knots": [
+        [
+            0.0,
+            20000.0
+        ],
+        [
+            1.0,
+            1.0
+        ]
+    ]
+}

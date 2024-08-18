@@ -1,0 +1,255 @@
+{
+    "name": "mp/default.ddl",
+    "defs": [
+        {
+            "name": "mp/default.ddl",
+            "version": 2,
+            "checksum": 770255442,
+            "flags": 23,
+            "bitSize": 416,
+            "byteSize": 52,
+            "structs": [
+                {
+                    "name": "root",
+                    "bitSize": 88,
+                    "members": [
+                        {
+                            "name": "bar",
+                            "index": 0,
+                            "bitSize": 32,
+                            "limitSize": 0,
+                            "offset": 24,
+                            "type": 8,
+                            "externalIndex": 1,
+                            "rangeLimit": 0,
+                            "serverDelta": 0,
+                            "clientDelta": 0,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "y",
+                            "index": 1,
+                            "bitSize": 24,
+                            "limitSize": 8,
+                            "offset": 0,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 3,
+                            "enumIndex": -1,
+                            "permission": 3
+                        },
+                        {
+                            "name": "foo",
+                            "index": 2,
+                            "bitSize": 16,
+                            "limitSize": 8,
+                            "offset": 56,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 2,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "strVariable",
+                            "index": 3,
+                            "bitSize": 16,
+                            "limitSize": 0,
+                            "offset": 72,
+                            "type": 7,
+                            "externalIndex": 0,
+                            "rangeLimit": 0,
+                            "serverDelta": 0,
+                            "clientDelta": 0,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "foo_t",
+                    "bitSize": 32,
+                    "members": [
+                        {
+                            "name": "fooInner",
+                            "index": 0,
+                            "bitSize": 16,
+                            "limitSize": 0,
+                            "offset": 16,
+                            "type": 8,
+                            "externalIndex": 2,
+                            "rangeLimit": 0,
+                            "serverDelta": 0,
+                            "clientDelta": 0,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "a",
+                            "index": 1,
+                            "bitSize": 8,
+                            "limitSize": 8,
+                            "offset": 0,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "b",
+                            "index": 2,
+                            "bitSize": 8,
+                            "limitSize": 8,
+                            "offset": 8,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "foo_inner_t",
+                    "bitSize": 16,
+                    "members": [
+                        {
+                            "name": "x",
+                            "index": 0,
+                            "bitSize": 8,
+                            "limitSize": 8,
+                            "offset": 0,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "y",
+                            "index": 1,
+                            "bitSize": 8,
+                            "limitSize": 8,
+                            "offset": 8,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        }
+                    ]
+                }
+            ],
+            "enums": [
+                {
+                    "name": "fooTypes_e",
+                    "members": [
+                        "TYPE_A",
+                        "TYPE_B"
+                    ]
+                }
+            ],
+            "headerBitSize": 328,
+            "headerByteSize": 41,
+            "reserveSize": 32,
+            "userFlagsSize": 1,
+            "paddingUsed": true
+        },
+        {
+            "name": "mp/default.ddl",
+            "version": 1,
+            "checksum": 964062371,
+            "flags": 23,
+            "bitSize": 416,
+            "byteSize": 52,
+            "structs": [
+                {
+                    "name": "root",
+                    "bitSize": 88,
+                    "members": [
+                        {
+                            "name": "bar",
+                            "index": 0,
+                            "bitSize": 88,
+                            "limitSize": 0,
+                            "offset": 0,
+                            "type": 8,
+                            "externalIndex": 1,
+                            "rangeLimit": 0,
+                            "serverDelta": 0,
+                            "clientDelta": 0,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "foo_t",
+                    "bitSize": 88,
+                    "members": [
+                        {
+                            "name": "varString",
+                            "index": 0,
+                            "bitSize": 80,
+                            "limitSize": 0,
+                            "offset": 8,
+                            "type": 7,
+                            "externalIndex": 0,
+                            "rangeLimit": 0,
+                            "serverDelta": 0,
+                            "clientDelta": 0,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        },
+                        {
+                            "name": "varByte",
+                            "index": 1,
+                            "bitSize": 8,
+                            "limitSize": 8,
+                            "offset": 0,
+                            "type": 0,
+                            "externalIndex": 0,
+                            "rangeLimit": 255,
+                            "serverDelta": 255,
+                            "clientDelta": 255,
+                            "arraySize": 1,
+                            "enumIndex": 0,
+                            "permission": 3
+                        }
+                    ]
+                }
+            ],
+            "enums": null,
+            "headerBitSize": 328,
+            "headerByteSize": 41,
+            "reserveSize": 32,
+            "userFlagsSize": 1,
+            "paddingUsed": true
+        }
+    ]
+}

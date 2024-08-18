@@ -1,0 +1,141 @@
+{
+    "baseAsset": "ogscope",
+    "internalName": "ogscope",
+    "displayName": "Classic Scope",
+    "type": 0,
+    "weaponType": 0,
+    "weaponClass": 0,
+    "greebleType": 0,
+    "shareAmmoWithAlt": false,
+    "riotShield": false,
+    "worldModels": [
+        "",
+        ""
+    ],
+    "viewModels": [
+        "",
+        ""
+    ],
+    "reticleViewModels": null,
+    "bounceSounds": null,
+    "rollingSounds": null,
+    "stringArray1": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "stringArray2": [
+        "tag_sight_on",
+        "",
+        "",
+        ""
+    ],
+    "waFields": [
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_FIRE",
+            "code": 1,
+            "value": "_idle _idle"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_RECHAMBER",
+            "code": 1,
+            "value": "_rechamber_ads _rechamber"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_UP",
+            "code": 1,
+            "value": "_ads _ogscope_ads"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_DOWN",
+            "code": 1,
+            "value": "_ads _ogscope_ads"
+        },
+        {
+            "name": "adsZoomFov",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 15.0
+        },
+        {
+            "name": "adsZoomInFrac",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 0
+        },
+        {
+            "name": "adsZoomOutFrac",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 0
+        },
+        {
+            "name": "overlay.shader",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "scope_iw4_ogscope"
+        },
+        {
+            "name": "overlay.reticle",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 1
+        },
+        {
+            "name": "overlay.width",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 800.0
+        },
+        {
+            "name": "overlay.height",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 440.0
+        },
+        {
+            "name": "adsReloadTransTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 450
+        },
+        {
+            "name": "aimDownSight",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": true
+        },
+        {
+            "name": "canHoldBreath",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": true
+        },
+        {
+            "name": "adsBlurSceneEnabled",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        }
+    ]
+}

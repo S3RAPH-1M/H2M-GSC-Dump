@@ -1,0 +1,18 @@
+{
+    "name": "ncs_mat_patch_ui_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "stringList": [
+        "rank_prestige11",
+        "rank_prestige12",
+        "rank_prestige13",
+        "rank_prestige14",
+        "rank_prestige15",
+        "rank_prestige16",
+        "rank_prestige17",
+        "rank_prestige18",
+        "rank_prestige19",
+        "rank_prestige20",
+        "rank_prestigemaster"
+    ]
+}

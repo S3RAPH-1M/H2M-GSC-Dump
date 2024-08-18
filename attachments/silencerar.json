@@ -1,0 +1,113 @@
+{
+    "baseAsset": "silencerar",
+    "internalName": "silencerar",
+    "displayName": "Silenced",
+    "type": 3,
+    "weaponType": 0,
+    "weaponClass": 0,
+    "greebleType": 0,
+    "shareAmmoWithAlt": false,
+    "riotShield": false,
+    "worldModels": [
+        "attach_h1_silencer_556_npc",
+        ""
+    ],
+    "viewModels": [
+        "attach_jup_silencer_ar",
+        ""
+    ],
+    "reticleViewModels": null,
+    "bounceSounds": null,
+    "rollingSounds": null,
+    "stringArray1": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "stringArray2": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "waFields": [
+        {
+            "name": "viewFlashEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "fx/muzzleflashes/m4m203_silencer"
+        },
+        {
+            "name": "worldFlashEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "fx/muzzleflashes/m4m203_silencer"
+        },
+        {
+            "name": "viewFlashADSEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "fx/muzzleflashes/m4m203_silencer"
+        },
+        {
+            "name": "fireSound",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "silencer_ar_npc"
+        },
+        {
+            "name": "fireSoundPlayer",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "silencer_ar_plr"
+        },
+        {
+            "name": "fireFirstSound",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "silencer_ar_npc"
+        },
+        {
+            "name": "fireFirstSoundPlayer",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "silencer_ar_plr"
+        },
+        {
+            "name": "fireRumble",
+            "type": 0,
+            "index": 0,
+            "code": 0,
+            "value": "silencer_fire"
+        },
+        {
+            "name": "maxDamageRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 500.0
+        },
+        {
+            "name": "minDamageRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1000.0
+        },
+        {
+            "name": "silenced",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": true
+        }
+    ]
+}

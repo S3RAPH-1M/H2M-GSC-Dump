@@ -1,0 +1,65 @@
+{
+    "name": "lb_vr_totalxp",
+    "leaderboardName": "lb_mp_mr",
+    "id": 13003,
+    "leaderboardId": 13000,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Prestige Level",
+            "id": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Total XP",
+            "id": 1,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Score",
+            "id": 2,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Time Played",
+            "id": 3,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Games Played",
+            "id": 4,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Avg Score",
+            "id": 65525,
+            "unk1": 2,
+            "unk2": 4,
+            "unk3": 0
+        }
+    ],
+    "pad": 0
+}

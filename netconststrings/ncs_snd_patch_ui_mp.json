@@ -1,0 +1,13 @@
+{
+    "name": "ncs_snd_patch_ui_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "stringList": [
+        "h1_mpui_grind_item",
+        "h1_mpui_loot_emblem",
+        "h1_mpui_loot_emblem_slam",
+        "h1_mpui_purch_codpts",
+        "h1_mpui_purch_neg",
+        "h1_ui_perm_unlock"
+    ]
+}

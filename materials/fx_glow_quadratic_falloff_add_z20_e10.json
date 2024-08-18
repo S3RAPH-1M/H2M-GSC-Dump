@@ -1,0 +1,57 @@
+{
+    "name": "fx_glow_quadratic_falloff_add_z20_e10",
+    "techniqueSet->name": "effect_zf_cso_hss_add_nofog_eo_ndw_h2",
+    "gameFlags": 4,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "eyeOffsetPar",
+            "nameHash": 135446697,
+            "literal": [
+                10.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.05000000074505806,
+                20.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "hdrColorParm",
+            "nameHash": 3379990750,
+            "literal": [
+                0.5,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "light_glow_quadratic_falloff",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

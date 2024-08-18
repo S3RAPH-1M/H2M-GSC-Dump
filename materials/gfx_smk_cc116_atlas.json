@@ -1,0 +1,37 @@
+{
+    "name": "gfx_smk_cc116_atlas",
+    "techniqueSet->name": "effect_zf_outdoor_blend_ndw_h2",
+    "gameFlags": 128,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 8,
+    "textureAtlasColumnCount": 8,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.009999999776482582,
+                100.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "smk_cc116_atlas",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

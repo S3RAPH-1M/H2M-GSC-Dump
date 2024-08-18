@@ -1,0 +1,29 @@
+{
+    "baseAsset": "silencersmg",
+    "internalName": "silencersmg",
+    "displayName": "",
+    "type": 0,
+    "weaponType": 0,
+    "weaponClass": 0,
+    "greebleType": 0,
+    "shareAmmoWithAlt": false,
+    "riotShield": false,
+    "worldModels": null,
+    "viewModels": null,
+    "reticleViewModels": null,
+    "bounceSounds": null,
+    "rollingSounds": null,
+    "stringArray1": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "stringArray2": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "waFields": null
+}

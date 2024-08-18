@@ -1,0 +1,37 @@
+{
+    "name": "fx_exp_igc_add_z5_fog0",
+    "techniqueSet->name": "effect_zf_add_nofog_ndw",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.20000000298023224,
+                5.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "exp_flash_01",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

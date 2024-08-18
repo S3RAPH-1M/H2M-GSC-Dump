@@ -1,0 +1,34 @@
+{
+    "name": "wc/gfx_crater_dirt",
+    "techniqueSet->name": "wc_l_sm_ndw_b0c0_nfwpf_frt_im_aat_h2",
+    "gameFlags": 19,
+    "sortKey": 14,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 2,
+    "materialType": 36,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "$identitynormalmap",
+            "semantic": 5,
+            "samplerState": 1,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "crater_dirt",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

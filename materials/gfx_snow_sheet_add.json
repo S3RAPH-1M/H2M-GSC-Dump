@@ -1,0 +1,37 @@
+{
+    "name": "gfx_snow_sheet_add",
+    "techniqueSet->name": "effect_zf_add_ndw_h2",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.012500000186264515,
+                80.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "snow_sheet",
+            "semantic": 2,
+            "samplerState": 2,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

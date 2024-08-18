@@ -1,0 +1,72 @@
+{
+    "name": "lb_vr_gm_dm",
+    "leaderboardName": "lb_mp_gm",
+    "id": 13509,
+    "leaderboardId": 13500,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Prestige Level",
+            "id": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Total XP",
+            "id": 1,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Score",
+            "id": 8,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kills",
+            "id": 11,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Deaths",
+            "id": 12,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kill/Death Ratio",
+            "id": 65526,
+            "unk1": 11,
+            "unk2": 12,
+            "unk3": 0
+        },
+        {
+            "name": "Headshots",
+            "id": 13,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        }
+    ],
+    "pad": 0
+}

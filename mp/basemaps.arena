@@ -1,0 +1,878 @@
+{
+����map���������"mp_convoy"
+����longname����"MPUI_CONVOY"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CONVOY"
+����mapimage����"loadscreen_mp_convoy"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+	map			"mp_backlot"
+	longname	"MPUI_BACKLOT"
+	gametype	"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_BACKLOT"
+	mapimage	"loadscreen_mp_backlot"
+	mapoverlay	"compass_overlay_map_blank"
+	allieschar	"rangers"
+	axischar	"opfor"
+	environment	"desert"
+	mappack		"0"
+}
+
+{
+����map���������"mp_bloc"
+����longname����"MPUI_BLOC"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BLOC"
+����mapimage����"loadscreen_mp_bloc"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_bog"
+����longname����"MPUI_BOG"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BOG"
+����mapimage����"loadscreen_mp_bog"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+	map 		"mp_broadcast"
+	longname	"MPUI_BROADCAST"
+	gametype����"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_BROADCAST"
+	mapimage����"loadscreen_mp_broadcast"
+	mapoverlay��"compass_overlay_map_blank"
+	allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+	map 		"mp_carentan"
+	longname	"MPUI_CARENTAN"
+	gametype����"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_CARENTAN"
+	mapimage����"loadscreen_mp_carentan"
+	mapoverlay��"compass_overlay_map_blank"
+	allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_countdown"
+����longname����"MPUI_COUNTDOWN"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_COUNTDOWN"
+����mapimage����"loadscreen_mp_countdown"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_crash"
+����longname����"MPUI_CRASH"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CRASH"
+����mapimage����"loadscreen_mp_crash"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+	map 		"mp_creek"
+	longname	"MPUI_CREEK"
+	gametype����"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_CREEK"
+	mapimage����"loadscreen_mp_creek"
+	mapoverlay��"compass_overlay_map_blank"
+	allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_crossfire"
+����longname����"MPUI_CROSSFIRE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CROSSFIRE"
+����mapimage����"loadscreen_mp_crossfire"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_citystreets"
+����longname����"MPUI_CITYSTREETS"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CITYSTREETS"
+����mapimage����"loadscreen_mp_citystreets"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_farm"
+����longname����"MPUI_FARM"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_FARM"
+����mapimage����"loadscreen_mp_farm"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+	map 		"mp_killhouse"
+	longname	"MPUI_KILLHOUSE"
+	gametype����"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_KILLHOUSE"
+	mapimage����"loadscreen_mp_killhouse"
+	mapoverlay��"compass_overlay_map_blank"
+	allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_overgrown"
+����longname����"MPUI_OVERGROWN"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_OVERGROWN"
+����mapimage����"loadscreen_mp_overgrown"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+
+}
+
+{
+����map���������"mp_pipeline"
+����longname����"MPUI_PIPELINE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_PIPELINE"
+����mapimage����"loadscreen_mp_pipeline"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_shipment"
+����longname����"MPUI_SHIPMENT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_SHIPMENT"
+����mapimage����"loadscreen_mp_shipment"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_showdown"
+����longname����"MPUI_SHOWDOWN"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_SHOWDOWN"
+����mapimage����"loadscreen_mp_showdown"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_strike"
+����longname����"MPUI_STRIKE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_STRIKE"
+����mapimage����"loadscreen_mp_strike"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_vacant"
+����longname����"MPUI_VACANT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_VACANT"
+����mapimage����"loadscreen_mp_vacant"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_cargoship"
+����longname����"MPUI_CARGOSHIP"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CARGOSHIP"
+����mapimage����"loadscreen_mp_cargoship"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_crash_snow"
+����longname����"MPUI_CRASH_SNOW"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CRASH_desert"
+����mapimage����"loadscreen_mp_crash_snow"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_farm_spring"
+����longname����"MPUI_FARM_SPRING"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_FARM_SPRING"
+����mapimage����"loadscreen_mp_farm_spring"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_bog_summer"
+����longname����"MPUI_BOG_SUMMER"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BOG_SUMMER"
+����mapimage����"loadscreen_mp_bog_summer"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+    map         "mp_vlobby_room"
+    gametype    "vlobby"
+    allieschar  "rangers"
+    axischar    "opfor"
+    environment "desert"
+    mappack     "16384"
+}
+
+{
+����map���������"airport"
+����longname����"MPUI_AIRPORT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_AIRPORT"
+����mapimage����"loadscreen_airport"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"boneyard"
+����longname����"MPUI_BONEYARD"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BONEYARD"
+����mapimage����"loadscreen_boneyard"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"cliffhanger"
+����longname����"MPUI_CLIFFHANGER"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CLIFFHANGER"
+����mapimage����"loadscreen_cliffhanger"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"contingency"
+����longname����"MPUI_CONTINGENCY"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CONTINGENCY"
+����mapimage����"loadscreen_contingency"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"estate"
+����longname����"MPUI_H2ESTATE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_H2ESTATE"
+����mapimage����"loadscreen_estate"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"oilrig"
+����longname����"MPUI_OILRIG"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_OILRIG"
+����mapimage����"loadscreen_oilrig"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_afghan"
+����longname����"MPUI_AFGHAN"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_AFGHAN"
+����mapimage����"loadscreen_mp_afghan"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"opfor"
+����environment�"woodland"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_derail"
+����longname����"MPUI_DERAIL"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_DERAIL"
+����mapimage����"loadscreen_mp_derail"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_estate"
+����longname����"MPUI_ESTATE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_ESTATE"
+����mapimage����"loadscreen_mp_estate"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_favela"
+����longname����"MPUI_FAVELA"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_FAVELA"
+����mapimage����"loadscreen_mp_favela"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_highrise"
+����longname����"MPUI_HIGHRISE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_HIGHRISE"
+����mapimage����"loadscreen_mp_highrise"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_invasion"
+����longname����"MPUI_INVASION"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_INVASION"
+����mapimage����"loadscreen_mp_invasion"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_checkpoint"
+����longname����"MPUI_CHECKPOINT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_CHECKPOINT"
+����mapimage����"loadscreen_mp_checkpoint"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_quarry"
+����longname����"MPUI_QUARRY"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_QUARRY"
+����mapimage����"loadscreen_mp_quarry"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_rundown"
+����longname����"MPUI_RUNDOWN"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_RUNDOWN"
+����mapimage����"loadscreen_mp_rundown"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_rust"
+����longname����"MPUI_RUST"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_RUST"
+����mapimage����"loadscreen_mp_rust"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"opfor"
+����environment�"woodland"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_boneyard"
+����longname����"MPUI_MP_BONEYARD"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_MP_BONEYARD"
+����mapimage����"loadscreen_mp_boneyard"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"opfor"
+����environment�"woodland"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_nightshift"
+����longname����"MPUI_NIGHTSHIFT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_NIGHTSHIFT"
+����mapimage����"loadscreen_mp_nightshift"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_subbase"
+����longname����"MPUI_SUBBASE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_SUBBASE"
+����mapimage����"loadscreen_mp_subbase"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_terminal"
+����longname����"MPUI_TERMINAL"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_TERMINAL"
+����mapimage����"loadscreen_mp_terminal"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_underpass"
+����longname����"MPUI_UNDERPASS"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_UNDERPASS"
+����mapimage����"loadscreen_mp_underpass"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_brecourt"
+����longname����"MPUI_BRECOURT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BRECOURT"
+����mapimage����"loadscreen_mp_brecourt"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_complex"
+����longname����"MPUI_COMPLEX"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_COMPLEX"
+����mapimage����"loadscreen_mp_complex"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_storm"
+����longname����"MPUI_STORM"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_STORM"
+����mapimage����"loadscreen_mp_storm"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_abandon"
+����longname����"MPUI_ABANDON"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_ABANDON"
+����mapimage����"loadscreen_mp_abandon"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_trailerpark"
+����longname����"MPUI_TRAILERPARK"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_TRAILERPARK"
+����mapimage����"loadscreen_mp_trailerpark"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_fuel2"
+����longname����"MPUI_FUEL2"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_FUEL2"
+����mapimage����"loadscreen_mp_fuel2"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"opfor"
+����environment�"desert"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_compact"
+����longname����"MPUI_COMPACT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_COMPACT"
+����mapimage����"loadscreen_mp_compact"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"gulag"
+����longname����"MPUI_GULAG"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_GULAG"
+����mapimage����"loadscreen_gulag"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"dc_whitehouse"
+����longname����"MPUI_DCWHITEHOUSE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_DCWHITEHOUSE"
+����mapimage����"loadscreen_dc_whitehouse"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"dcburning"
+����longname����"MPUI_DCBURNING"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_DCBURNING"
+����mapimage����"loadscreen_dc_burning"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_dome"
+����longname����"MPUI_DOME"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_DOME"
+����mapimage����"loadscreen_mp_dome"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_highrise2"
+����longname����"MPUI_HIGHRISE2"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_HIGHRISE2"
+����mapimage����"loadscreen_mp_highrise2"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_shipmentlong"
+����longname����"MPUI_SHIPMENTLONG"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_SHIPMENTLONG"
+����mapimage����"loadscreen_mp_shipmentlong"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_bootleg"
+����longname����"MPUI_BOOTLEG"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_BOOTLEG"
+����mapimage����"loadscreen_mp_bootleg"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_village"
+����longname����"MPUI_VILLAGE"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_VILLAGE"
+����mapimage����"loadscreen_mp_village"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"militia"
+����environment�"urban"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_radar"
+����longname����"MPUI_RADAR"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_RADAR"
+����mapimage����"loadscreen_mp_radar"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"seals"
+����axischar����"russian"
+����environment�"woodland"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_plaza2"
+����longname����"MPUI_PLAZA2"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_PLAZA2"
+����mapimage����"loadscreen_mp_plaza2"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"tf141"
+����axischar����"russian"
+����environment�"urban"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_hardhat"
+����longname����"MPUI_HARDHAT"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_HARDHAT"
+����mapimage����"loadscreen_mp_hardhat"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_overwatch"
+����longname����"MPUI_OVERWATCH"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_OVERWATCH"
+����mapimage����"loadscreen_mp_overwatch"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}
+
+{
+����map���������"mp_morningwood"
+����longname����"MPUI_MORNINGWOOD"
+����gametype����"dm war dom conf sd hp sr twar infect ball"
+����description "MPUI_DESC_MAP_MORNINGWOOD"
+����mapimage����"loadscreen_mp_morningwood"
+����mapoverlay��"compass_overlay_map_blank"
+����allieschar��"rangers"
+����axischar����"russian"
+����environment�"desert"
+����envmod������"wet"
+����mappack�����"0"
+}

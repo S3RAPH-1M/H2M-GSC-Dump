@@ -1,0 +1,26 @@
+{
+    "name": "fx_spark_burst_add_atlas",
+    "techniqueSet->name": "effect_add_ndw",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 4,
+    "textureAtlasColumnCount": 4,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "spark_atlas_01",
+            "semantic": 2,
+            "samplerState": 2,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "m/mtl_h2_mg_sentry_minigun_ammo_decal_base_obj",
+    "techniqueSet->name": "m_l_sm_a0c0_cltrans_objective_h2",
+    "gameFlags": 17,
+    "sortKey": 10,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 549755813888,
+    "cameraRegion": 2,
+    "materialType": 1,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "colorObjMax",
+            "nameHash": 2065593518,
+            "literal": [
+                1.0,
+                0.8431370258331299,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "colorObjMin",
+            "nameHash": 2065593776,
+            "literal": [
+                0.25,
+                0.15000000596046448,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "colorObjHdrP",
+            "nameHash": 3345677433,
+            "literal": [
+                0.6499999761581421,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "h2_mg_sentry_minigun_ammo_decal_base_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

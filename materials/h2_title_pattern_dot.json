@@ -1,0 +1,65 @@
+{
+    "name": "h2_title_pattern_dot",
+    "techniqueSet->name": "pulsing_mask_h2",
+    "gameFlags": 0,
+    "sortKey": 52,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 12,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "pulseShaderP",
+            "nameHash": 2478483288,
+            "literal": [
+                16.0,
+                9.0,
+                25.0,
+                50.0
+            ]
+        },
+        {
+            "name": "pulseShaderP",
+            "nameHash": 2478483289,
+            "literal": [
+                -0.019999999552965164,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "pulseShaderP",
+            "nameHash": 2478483291,
+            "literal": [
+                8.0,
+                6.0,
+                10.0,
+                5.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "h2_title_cloud_mask",
+            "semantic": 0,
+            "samplerState": 2,
+            "lastCharacter": 112,
+            "firstCharacter": 109,
+            "typeHash": 2658902024
+        },
+        {
+            "image": "h2_title_dot_pattern",
+            "semantic": 0,
+            "samplerState": 226,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

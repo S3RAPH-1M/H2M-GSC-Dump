@@ -1,0 +1,28 @@
+{
+    "name": "cinematic",
+    "techniqueSet->name": "cinematic",
+    "gameFlags": 0,
+    "sortKey": 52,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 12,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "uvScale",
+            "nameHash": 3809220315,
+            "literal": [
+                1.0,
+                1.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": null
+}

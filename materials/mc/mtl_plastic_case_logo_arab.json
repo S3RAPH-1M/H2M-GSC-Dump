@@ -1,0 +1,42 @@
+{
+    "name": "mc/mtl_plastic_case_logo_arab",
+    "techniqueSet->name": "mc_l_sm_lmpb_ndw_b0c0_nfwpf_frt_im_aat",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 3,
+    "materialType": 3,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "$identitynormalmap",
+            "semantic": 5,
+            "samplerState": 1,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "faction_128_arab_crate",
+            "semantic": 2,
+            "samplerState": 235,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        },
+        {
+            "image": "~envbrdflut_ggx_16-rg",
+            "semantic": 15,
+            "samplerState": 226,
+            "lastCharacter": 116,
+            "firstCharacter": 101,
+            "typeHash": 3447584578
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "m/mtl_s_swaynos_head",
+    "techniqueSet->name": "m_l_sm_lmpb_t0c0n0sd0om0_nfwpf_sst_smt_dsl_mpr",
+    "gameFlags": 144,
+    "sortKey": 2,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 8,
+    "cameraRegion": 0,
+    "materialType": 1,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.03999999910593033,
+                1.0,
+                5.0,
+                1.0
+            ]
+        },
+        {
+            "name": "transmittanc",
+            "nameHash": 1428490250,
+            "literal": [
+                0.18782053887844086,
+                0.18782053887844086,
+                0.18782053887844086,
+                1.0
+            ]
+        },
+        {
+            "name": "sssTransmitt",
+            "nameHash": 2289019480,
+            "literal": [
+                1.0,
+                0.5,
+                0.800000011920929,
+                0.30000001192092896
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~s_swaynos_head_spc-rgb&s_swa~98068d79",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "s_swaynos_head_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "~s_swaynos_head_occ-l",
+            "semantic": 16,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 111,
+            "typeHash": 1610742065
+        },
+        {
+            "image": "s_swaynos_head_col",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        },
+        {
+            "image": "~envbrdflut_ggx_16-rg",
+            "semantic": 15,
+            "samplerState": 226,
+            "lastCharacter": 116,
+            "firstCharacter": 101,
+            "typeHash": 3447584578
+        },
+        {
+            "image": "h2_d_lykes_rvl",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 3671689240
+        }
+    ]
+}

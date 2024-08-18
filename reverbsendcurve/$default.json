@@ -1,0 +1,14 @@
+{
+    "isDefault": true,
+    "filename": "$default",
+    "knots": [
+        [
+            0.0,
+            1.0
+        ],
+        [
+            1.0,
+            1.0
+        ]
+    ]
+}

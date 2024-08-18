@@ -1,0 +1,1163 @@
+{
+    "baseAsset": "sho",
+    "internalName": "sho",
+    "displayName": "WEAPON_MASTERKEY_ATTACHMENT",
+    "type": 1,
+    "weaponType": 0,
+    "weaponClass": 4,
+    "greebleType": 0,
+    "shareAmmoWithAlt": false,
+    "riotShield": false,
+    "worldModels": [
+        "attach_h2_shotgun_vm",
+        ""
+    ],
+    "viewModels": [
+        "attach_h2_shotgun_vm",
+        ""
+    ],
+    "reticleViewModels": null,
+    "bounceSounds": null,
+    "rollingSounds": null,
+    "stringArray1": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "stringArray2": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "waFields": [
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "IDLE",
+            "code": 1,
+            "value": "_idle _sho_idle"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "FIRE",
+            "code": 1,
+            "value": "_fire _sho_fire"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "LASTSHOT",
+            "code": 1,
+            "value": "_fire _sho_fire"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RECHAMBER",
+            "code": 1,
+            "value": "_idle _sho_rechamber"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RELOAD",
+            "code": 1,
+            "value": "_reload _sho_reload_loop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RELOAD_EMPTY",
+            "code": 1,
+            "value": "_reload_empty _sho_reload_loop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RELOAD_START",
+            "code": 1,
+            "value": "_idle _sho_reload_start"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RELOAD_END",
+            "code": 1,
+            "value": "_idle _sho_reload_end"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "RAISE",
+            "code": 1,
+            "value": "_raise _sho_raise"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "FIRST_RAISE",
+            "code": 1,
+            "value": "_raise_first shopre_raise"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "DROP",
+            "code": 1,
+            "value": "_drop _sho_drop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ALT_RAISE",
+            "code": 1,
+            "value": "_idle _shopre_bullet_2_shotgun"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "QUICK_RAISE",
+            "code": 1,
+            "value": "_raise _sho_raise"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "QUICK_DROP",
+            "code": 1,
+            "value": "_drop _sho_drop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "EMPTY_RAISE",
+            "code": 1,
+            "value": "_raise _sho_raise"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "EMPTY_DROP",
+            "code": 1,
+            "value": "_drop _sho_drop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "SPRINT_IN",
+            "code": 1,
+            "value": "_sprint_in _sho_sprint_in"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "SPRINT_LOOP",
+            "code": 1,
+            "value": "_sprint_loop _sho_sprint_loop"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "SPRINT_OUT",
+            "code": 1,
+            "value": "_sprint_out _sho_sprint_out"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "INSPECTION",
+            "code": 1,
+            "value": "_inspect _sho_inspect"
+        },
+        {
+            "name": "viewFlashEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "fx/muzzleflashes/shotgunflash_view"
+        },
+        {
+            "name": "worldFlashEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "fx/muzzleflashes/shotgunflash"
+        },
+        {
+            "name": "fireSound",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "attach_shotty_fire_npc"
+        },
+        {
+            "name": "fireSoundPlayer",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "attach_shotty_fire_plr"
+        },
+        {
+            "name": "fireFirstSound",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "attach_shotty_fire_npc"
+        },
+        {
+            "name": "fireFirstSoundPlayer",
+            "type": 15,
+            "index": 0,
+            "code": 0,
+            "value": "attach_shotty_fire_plr"
+        },
+        {
+            "name": "viewShellEjectEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "vfx/shelleject/shotgun_view"
+        },
+        {
+            "name": "worldShellEjectEffect",
+            "type": 10,
+            "index": 0,
+            "code": 0,
+            "value": "vfx/shelleject/shotgun"
+        },
+        {
+            "name": "reticleSide",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "reticle_shotgun"
+        },
+        {
+            "name": "ammoCounterIcon",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "hud_icon_shotgun"
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 1,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 2,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 3,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 4,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 5,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 6,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 7,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 8,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 9,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 10,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 11,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 12,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 13,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 14,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 15,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 16,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "locationDamageMultipliers",
+            "type": 7,
+            "index": 17,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "fireRumble",
+            "type": 0,
+            "index": 0,
+            "code": 0,
+            "value": "shotgun_fire"
+        },
+        {
+            "name": "meleeImpactRumble",
+            "type": 0,
+            "index": 0,
+            "code": 0,
+            "value": "defaultweapon_melee"
+        },
+        {
+            "name": "tracer1",
+            "type": 16,
+            "index": 0,
+            "code": 0,
+            "value": "shotgun"
+        },
+        {
+            "name": "penetrateType",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 1
+        },
+        {
+            "name": "impactType",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 5
+        },
+        {
+            "name": "fireType",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 1
+        },
+        {
+            "name": "reticleCenterSize",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 3
+        },
+        {
+            "name": "reticleSideSize",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 8
+        },
+        {
+            "name": "ammoCounterClip",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 3
+        },
+        {
+            "name": "startAmmo",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 12
+        },
+        {
+            "name": "maxAmmo",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 24
+        },
+        {
+            "name": "clipSize",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 4
+        },
+        {
+            "name": "shotCount",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 6
+        },
+        {
+            "name": "damage",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 25
+        },
+        {
+            "name": "playerDamage",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 100
+        },
+        {
+            "name": "meleeDamage",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 135
+        },
+        {
+            "name": "stateTimers.fireTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 500
+        },
+        {
+            "name": "stateTimers.rechamberTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 430
+        },
+        {
+            "name": "stateTimers.reloadTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 750
+        },
+        {
+            "name": "stateTimers.reloadEmptyTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 750
+        },
+        {
+            "name": "stateTimers.reloadAddTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 550
+        },
+        {
+            "name": "stateTimers.reloadStartTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 1000
+        },
+        {
+            "name": "stateTimers.reloadStartAddTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 600
+        },
+        {
+            "name": "stateTimers.reloadEndTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 1350
+        },
+        {
+            "name": "stateTimers.dropTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.raiseTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.altRaiseTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.quickDropTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.quickRaiseTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.firstRaiseTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.emptyRaiseTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.emptyDropTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 866
+        },
+        {
+            "name": "stateTimers.sprintInTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 333
+        },
+        {
+            "name": "stateTimers.sprintLoopTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 2400
+        },
+        {
+            "name": "stateTimers.sprintOutTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 333
+        },
+        {
+            "name": "autoAimRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 600.0
+        },
+        {
+            "name": "aimAssistRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 600.0
+        },
+        {
+            "name": "aimAssistRangeAds",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1000.0
+        },
+        {
+            "name": "enemyCrosshairRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 600.0
+        },
+        {
+            "name": "adsZoomFov",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 55.0
+        },
+        {
+            "name": "adsZoomOutFrac",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.4000000059604645
+        },
+        {
+            "name": "overlay.width",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 220.0
+        },
+        {
+            "name": "overlay.height",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 220.0
+        },
+        {
+            "name": "adsBobFactor",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.5
+        },
+        {
+            "name": "adsViewBobMult",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.25
+        },
+        {
+            "name": "hipSpreadStandMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 10.0
+        },
+        {
+            "name": "hipSpreadDuckedMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 9.5
+        },
+        {
+            "name": "hipSpreadProneMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 9.0
+        },
+        {
+            "name": "hipSpreadStandMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 15.0
+        },
+        {
+            "name": "hipSpreadDuckedMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 14.0
+        },
+        {
+            "name": "hipSpreadProneMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 13.0
+        },
+        {
+            "name": "hipSpreadDecayRate",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 5.0
+        },
+        {
+            "name": "hipSpreadFireAdd",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "hipSpreadMoveAdd",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 5.0
+        },
+        {
+            "name": "hipSpreadDuckedDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "hipSpreadProneDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "adsIdleAmount",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 30.0
+        },
+        {
+            "name": "hipIdleAmount",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 15.0
+        },
+        {
+            "name": "adsIdleSpeed",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 3.0
+        },
+        {
+            "name": "hipIdleSpeed",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 5.0
+        },
+        {
+            "name": "idleCrouchFactor",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1.0
+        },
+        {
+            "name": "idleProneFactor",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.4000000059604645
+        },
+        {
+            "name": "adsIdleLerpStartTime",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.25
+        },
+        {
+            "name": "adsIdleLerpTime",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 4.0
+        },
+        {
+            "name": "adsTransInTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 200
+        },
+        {
+            "name": "adsTransOutTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 200
+        },
+        {
+            "name": "killIcon",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "hud_icon_underbarrel_shotgun"
+        },
+        {
+            "name": "dpadIcon",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "dpad_underbarrel_shotgun"
+        },
+        {
+            "name": "dpadIcon",
+            "type": 13,
+            "index": 0,
+            "code": 0,
+            "value": "hud_icon_underbarrel_shotgun"
+        },
+        {
+            "name": "dpadIconRatio",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 0
+        },
+        {
+            "name": "fireAnimLength",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 500.0
+        },
+        {
+            "name": "reloadAmmoAdd",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 1
+        },
+        {
+            "name": "reloadStartAdd",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 1
+        },
+        {
+            "name": "adsAimPitch",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": -0.10000000149011612
+        },
+        {
+            "name": "adsGunKickReducedKickBullets",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 0
+        },
+        {
+            "name": "adsGunKickReducedKickPercent",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "adsGunKickPitchMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "adsGunKickPitchMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "adsGunKickYawMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "adsGunKickYawMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "adsGunKickAccel",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 260.0
+        },
+        {
+            "name": "adsGunKickSpeedMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 600.0
+        },
+        {
+            "name": "adsGunKickSpeedDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 50.0
+        },
+        {
+            "name": "adsGunKickStaticDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 10.0
+        },
+        {
+            "name": "adsViewKickPitchMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 55.0
+        },
+        {
+            "name": "adsViewKickPitchMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 65.0
+        },
+        {
+            "name": "adsViewKickYawMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": -35.0
+        },
+        {
+            "name": "adsViewKickYawMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 35.0
+        },
+        {
+            "name": "adsViewKickCenterSpeed",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1400.0
+        },
+        {
+            "name": "adsSpread",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 5.5
+        },
+        {
+            "name": "hipGunKickReducedKickBullets",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 0
+        },
+        {
+            "name": "hipGunKickReducedKickPercent",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 0.0
+        },
+        {
+            "name": "hipGunKickPitchMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 50.0
+        },
+        {
+            "name": "hipGunKickPitchMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 60.0
+        },
+        {
+            "name": "hipGunKickYawMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": -30.0
+        },
+        {
+            "name": "hipGunKickYawMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 30.0
+        },
+        {
+            "name": "hipGunKickAccel",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1000.0
+        },
+        {
+            "name": "hipGunKickSpeedMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 1200.0
+        },
+        {
+            "name": "hipGunKickSpeedDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 100.0
+        },
+        {
+            "name": "hipGunKickStaticDecay",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 2.0
+        },
+        {
+            "name": "hipViewKickPitchMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 55.0
+        },
+        {
+            "name": "hipViewKickPitchMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 65.0
+        },
+        {
+            "name": "hipViewKickYawMin",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": -35.0
+        },
+        {
+            "name": "hipViewKickYawMax",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 35.0
+        },
+        {
+            "name": "adsReloadTransTime",
+            "type": 9,
+            "index": 0,
+            "code": 3,
+            "value": 500
+        },
+        {
+            "name": "midDamage",
+            "type": 4,
+            "index": 0,
+            "code": 3,
+            "value": 5
+        },
+        {
+            "name": "maxDamageRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 500.0
+        },
+        {
+            "name": "minDamageRange",
+            "type": 7,
+            "index": 0,
+            "code": 3,
+            "value": 650.0
+        },
+        {
+            "name": "rifleBullet",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "boltAction",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": true
+        },
+        {
+            "name": "aimDownSight",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "rechamberWhileAds",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "segmentedReload",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": true
+        }
+    ]
+}

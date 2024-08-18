@@ -1,0 +1,26 @@
+{
+    "name": "button_primary_ps4",
+    "techniqueSet->name": "2d",
+    "gameFlags": 0,
+    "sortKey": 60,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 12,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "h1_icon_ps4_button_cross",
+            "semantic": 0,
+            "samplerState": 244,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

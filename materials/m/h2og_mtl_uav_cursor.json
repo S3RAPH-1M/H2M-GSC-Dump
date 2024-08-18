@@ -1,0 +1,37 @@
+{
+    "name": "m/h2og_mtl_uav_cursor",
+    "techniqueSet->name": "m_unlit_blend_lin_ndw_ua_cltrans_h2",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 256,
+    "cameraRegion": 3,
+    "materialType": 1,
+    "assetFlags": 2,
+    "constantTable": [
+        {
+            "name": "uvAnimParms",
+            "nameHash": 1894494101,
+            "literal": [
+                2.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "uav_cursor",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "m/mtl_h2_mg_sentry_minigun_feeder_base_obj_red",
+    "techniqueSet->name": "m_l_sm_r0c0sd0_nfwpf_objective_h2",
+    "gameFlags": 16,
+    "sortKey": 31,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 549755813888,
+    "cameraRegion": 3,
+    "materialType": 1,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "envMapParms",
+            "nameHash": 1033475292,
+            "literal": [
+                0.25,
+                2.0,
+                1.2999999523162842,
+                1.0
+            ]
+        },
+        {
+            "name": "colorObjMax",
+            "nameHash": 2065593518,
+            "literal": [
+                0.5176470279693604,
+                0.0,
+                0.007842999882996082,
+                0.0
+            ]
+        },
+        {
+            "name": "colorObjMin",
+            "nameHash": 2065593776,
+            "literal": [
+                0.35686299204826355,
+                0.09803900122642517,
+                0.10588199645280838,
+                0.0
+            ]
+        },
+        {
+            "name": "colorObjHdrP",
+            "nameHash": 3345677433,
+            "literal": [
+                0.8999999761581421,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "h2_mg_sentry_minigun_feeder_base_col",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "distort_wave_knife_swipe",
+    "techniqueSet->name": "distortion_shade_legacydst_eo_dat",
+    "gameFlags": 32,
+    "sortKey": 48,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "eyeOffsetPar",
+            "nameHash": 135446697,
+            "literal": [
+                8.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "distortionSc",
+            "nameHash": 4084951315,
+            "literal": [
+                0.0,
+                4.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "distort_exo_punch",
+            "semantic": 2,
+            "samplerState": 83,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

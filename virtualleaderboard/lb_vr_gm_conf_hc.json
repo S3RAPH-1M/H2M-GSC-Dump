@@ -1,0 +1,72 @@
+{
+    "name": "lb_vr_gm_conf_hc",
+    "leaderboardName": "lb_mp_gm_hc",
+    "id": 13815,
+    "leaderboardId": 13800,
+    "columns": [
+        {
+            "name": "Rank",
+            "id": 65535,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Prestige Level",
+            "id": 0,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Total XP",
+            "id": 1,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Gamer Name",
+            "id": 65533,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Score",
+            "id": 14,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Confirms",
+            "id": 19,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Denies",
+            "id": 20,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Kills",
+            "id": 17,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        },
+        {
+            "name": "Deaths",
+            "id": 18,
+            "unk1": 0,
+            "unk2": 0,
+            "unk3": 0
+        }
+    ],
+    "pad": 0
+}

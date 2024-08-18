@@ -1,0 +1,179 @@
+{
+    "name": "wc/gfx_crater_dirt_autodisplacement",
+    "techniqueSet->name": "wc_l_sm_ndw_b0c0_nfwpf_frt_z1_z2_z3_z4_z5_z6_z7_z8_zdecal0_im_aat_h2",
+    "gameFlags": 19,
+    "sortKey": 14,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 1,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 2,
+    "materialType": 36,
+    "assetFlags": 1,
+    "constantTable": [
+        {
+            "name": "displacement",
+            "nameHash": 3053481234,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481240,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481241,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481243,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481244,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481245,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481246,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        },
+        {
+            "name": "displacement",
+            "nameHash": 3053481247,
+            "literal": [
+                1.0,
+                0.0,
+                2.0,
+                0.0
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "$identitynormalmap",
+            "semantic": 5,
+            "samplerState": 1,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 56,
+            "firstCharacter": 100,
+            "typeHash": 1660022931
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 51,
+            "firstCharacter": 100,
+            "typeHash": 1660022936
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 50,
+            "firstCharacter": 100,
+            "typeHash": 1660022937
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 49,
+            "firstCharacter": 100,
+            "typeHash": 1660022938
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 55,
+            "firstCharacter": 100,
+            "typeHash": 1660022940
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 54,
+            "firstCharacter": 100,
+            "typeHash": 1660022941
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 53,
+            "firstCharacter": 100,
+            "typeHash": 1660022942
+        },
+        {
+            "image": "$black",
+            "semantic": 13,
+            "samplerState": 18,
+            "lastCharacter": 52,
+            "firstCharacter": 100,
+            "typeHash": 1660022943
+        },
+        {
+            "image": "crater_dirt",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

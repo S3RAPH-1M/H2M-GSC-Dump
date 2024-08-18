@@ -1,0 +1,26 @@
+{
+    "name": "fx_fire_flame_core_desat_add_nocull_atlas",
+    "techniqueSet->name": "effect_add_ndw_h2",
+    "gameFlags": 0,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 8,
+    "textureAtlasColumnCount": 16,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": null,
+    "textureTable": [
+        {
+            "image": "fire_flame_core_anim_desat",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "fx_water_splash_02_blend_atlas_z120_uvd_flit",
+    "techniqueSet->name": "effect_zf_blend_ndw_fl_uvd",
+    "gameFlags": 128,
+    "sortKey": 53,
+    "renderFlags": 0,
+    "textureAtlasRowCount": 1,
+    "textureAtlasColumnCount": 2,
+    "textureAtlasFrameBlend": 0,
+    "textureAtlasAsArray": 0,
+    "surfaceTypeBits": 0,
+    "cameraRegion": 4,
+    "materialType": 0,
+    "assetFlags": 0,
+    "constantTable": [
+        {
+            "name": "uvDistortPar",
+            "nameHash": 730571196,
+            "literal": [
+                0.5,
+                0.5,
+                2.25,
+                2.25
+            ]
+        },
+        {
+            "name": "textureAtlas",
+            "nameHash": 1128936273,
+            "literal": [
+                2.0,
+                1.0,
+                0.0,
+                1.0
+            ]
+        },
+        {
+            "name": "featherParms",
+            "nameHash": 1300144692,
+            "literal": [
+                0.008333333767950535,
+                120.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "fakeLightPar",
+            "nameHash": 1592940971,
+            "literal": [
+                100.0,
+                25.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "uvDistortPar",
+            "nameHash": 2634012942,
+            "literal": [
+                0.0,
+                0.0,
+                0.0,
+                0.10000000149011612
+            ]
+        }
+    ],
+    "textureTable": [
+        {
+            "image": "~water_splash_02_spec-rgb&$white-l",
+            "semantic": 8,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 115,
+            "typeHash": 887934131
+        },
+        {
+            "image": "uv_distort_1",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 117,
+            "typeHash": 943943196
+        },
+        {
+            "image": "water_splash_02_nml",
+            "semantic": 5,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 110,
+            "typeHash": 1507003663
+        },
+        {
+            "image": "particle_cubemap_ft",
+            "semantic": 2,
+            "samplerState": 243,
+            "lastCharacter": 112,
+            "firstCharacter": 102,
+            "typeHash": 2104391894
+        },
+        {
+            "image": "water_splash_02",
+            "semantic": 2,
+            "samplerState": 19,
+            "lastCharacter": 112,
+            "firstCharacter": 99,
+            "typeHash": 2695565377
+        }
+    ]
+}

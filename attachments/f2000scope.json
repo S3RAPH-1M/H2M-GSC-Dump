@@ -1,0 +1,143 @@
+{
+    "baseAsset": "f2000scope",
+    "internalName": "f2000scope",
+    "displayName": "Red Dot Sight",
+    "type": 0,
+    "weaponType": 0,
+    "weaponClass": 0,
+    "greebleType": 0,
+    "shareAmmoWithAlt": false,
+    "riotShield": false,
+    "worldModels": [
+        "attach_h2_f2000_scope_vm",
+        ""
+    ],
+    "viewModels": [
+        "attach_h2_f2000_scope_vm",
+        ""
+    ],
+    "reticleViewModels": [
+        "reticle_h1_optic_reflex",
+        "reticle_h1_reflex_transparent",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "bounceSounds": null,
+    "rollingSounds": null,
+    "stringArray1": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "stringArray2": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "waFields": [
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_UP",
+            "code": 1,
+            "value": "_ads _scope_ads"
+        },
+        {
+            "name": "szXAnims",
+            "type": 12,
+            "anim": "ADS_DOWN",
+            "code": 1,
+            "value": "_ads _scope_ads"
+        },
+        {
+            "name": "adsHideWeapon",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "adsHideHands",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "adsBlurSceneEnabled",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        },
+        {
+            "name": "usesSniperScope",
+            "type": 6,
+            "index": 0,
+            "code": 3,
+            "value": false
+        }
+    ]
+}
